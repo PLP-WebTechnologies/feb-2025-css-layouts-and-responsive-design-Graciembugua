@@ -1,1 +1,53 @@
+<!DOCTYPE html>
+ <html>
+    <head>
+        <title>
+            assignment 2 - Grandwave Gadgets
+        </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">    
+    </head>
+    <body>
+        <div class ="container">
+            <h1>GRANDWAVE GADGETS</h1>
+            <P> This easter , we have great offers to all our customers. We are offering over 20% discount on all our gadgets. Grab these opportunity to get that gadget you have always dreamed off. Hurry while stocks last!</P>
+        </div>
+        <img src="eggs.jpg" alt="Responsive image" width="40%" height="40%">
+
+        <div class="flex-container">
+            <div class="flex-item">
+                <h3>PRODUCTS ON OFFER</h3>
+                <ul>
+                    <li>Smartphone</li>
+                    <li>Tablet</li>
+                    <li>Smartwatch</li>
+                    <li>Headphones</li>
+            </div>
+            <div class="grid-container">
+                <div class="grid-item">
+                    <h3>Smartphone</h3>
+                    <p>Price: $499</p>
+                    <p>Discounted Price: $399</p>
+                </div>
+                <div class="grid-item">
+                    <h5>Tablet</h5>
+                    <p>Price: $299</p>
+                    <p>Discounted Price: $239</p>
+                </div>
+                <div class="grid-item">
+                    <h5>Smartwatch</h5>
+                    <p>Price: $199</p>
+                    <p>Discounted Price: $159</p>
+                </div>
+                <div class="grid-item">
+                    <h5>Headphones</h5>
+                    <p>Price: $99</p>
+                    <p>Discounted Price: $79</p>
+                </div>
+        </div>
+        </div>
+        
+
+    </body>
+ </html>
 
